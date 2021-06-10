@@ -1,6 +1,10 @@
 # AntpackPrueba
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3. 
+
+# Download node_modules para correr la aplicación  
+
+run npm install
 
 ## Development server
 
